@@ -1,0 +1,33 @@
+[33mcommit 63f1109d486b02f72ebb59db6aa6ab5b613a1317[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: raphael <raphael@teste.com>
+Date:   Tue Nov 26 01:32:03 2024 -0300
+
+    inclusão de changelog.md
+
+[33mcommit 1fb8dd878d97200ac63a88b04ef1f4ff117889d2[m
+Author: raphael <raphael@teste.com>
+Date:   Tue Nov 26 01:18:15 2024 -0300
+
+     colocando alguma alteração no arquivo2.txt
+
+[33mcommit e084a2d648a0a390b5cbfccee68d1b45e678e7e9[m
+Author: raphael <raphael@teste.com>
+Date:   Tue Nov 26 01:15:17 2024 -0300
+
+    agora eu consegui alterar arquivo2.txt
+
+[33mcommit 91eaf00daee1dfcb570227bb24d4ecc5cd514a23[m
+Author: raphael <raphael@teste.com>
+Date:   Tue Nov 26 01:02:03 2024 -0300
+
+    alteracao de nome de arquivo
+    
+    alterei o nome do Ola_mundo para arquivo2
+
+[33mcommit f763a2afa26a2dda9e089ab2badc5d100b1c8e04[m
+Author: raphael <raphael@teste.com>
+Date:   Tue Nov 26 00:26:38 2024 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivo.txt Ola_mundo.txt
